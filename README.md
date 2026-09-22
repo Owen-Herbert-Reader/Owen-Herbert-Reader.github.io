@@ -1,4 +1,4 @@
-#Owen Herbert-Reader
+# Owen Herbert-Reader
 ## Portfolio
 [Resume](ResumeOHR.pdf)
 
