@@ -1,4 +1,4 @@
-# Owen-Herbert-Reader.github.io
-Portfolio Website
+#Owen Herbert-Reader
+## Portfolio
 [Resume](ResumeOHR.pdf)
 
